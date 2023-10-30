@@ -2,6 +2,8 @@
 
 Project based on this blog - [How to Extract Texts from Rotated(Skewed) Text-Images using CRAFT, OpenCV and pytesseract](https://ai.plainenglish.io/how-to-extract-texts-from-rotated-skewed-text-images-using-craft-opencv-and-pytesseract-9c8c3fb8ef9d) and [github]( https://github.com/clovaai/CRAFT-pytorch )
 
+Video demo [here](https://drive.google.com/file/d/1l5_N1BgAj9N5rP1xvuhJ5W0w7WOpTyo_/view?usp=sharing)
+
 ## Overview
 
 Detects and corrects skew and performs OCR.  This version updates the CRAFT project with updates to requirements.txt and changes to account for deprecated code
