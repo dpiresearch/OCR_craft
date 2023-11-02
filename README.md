@@ -18,7 +18,7 @@ Weights are staged in the ./weights directory and are sent in via the --trained_
 
 ### Cuda
 
-Cuda is TRUE by default, so set to False if 
+Cuda is TRUE by default, so set to False if you're on a laptop
 
 ## Execution
 
@@ -27,6 +27,7 @@ python test_craft.py --trained_model=<"path to weights file"> --test_folder=<"pa
 ## Output
 
 ==================================
+
 Processing image: <image path>
 Angle:  < angle of skew detected >
 Image to text: 
